@@ -7,7 +7,7 @@ https://garyghayrat.github.io/blockchain-developer-bootcamp-final-project/
 
 ## Workflow
 
-Buying an advertisement spot:
+Buying a message spot:
 	
 	1. Connect your Metamask wallet to the website.
 
@@ -18,11 +18,3 @@ Buying an advertisement spot:
 	4. Click the submit message button and pay for the transaction through the Metamask prompt.
 
 	5. Input the ID corresponding to your message and click the Retrieve Message button to see your message any time. 
-
-## Running the project locally
-
-### Frontend
-
-	1. cd docs/
-	
-	2. 
