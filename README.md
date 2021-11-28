@@ -3,7 +3,7 @@
 
 ## Project URL
 
-https://garyghayrat.github.io/blockchain-developer-bootcamp-final-project/
+https://garyghayrat.github.io/garyslist/
 
 ## Workflow
 
